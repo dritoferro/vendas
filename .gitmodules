@@ -1,0 +1,3 @@
+[submodule "vendas_pessoa"]
+	path = vendas_pessoa
+	url = https://github.com/dritoferro/vendas_pessoa.git
