@@ -1,0 +1,6 @@
+[submodule "vendas_pessoa"]
+	path = vendas_pessoa
+	url = https://github.com/dritoferro/vendas_pessoa.git
+[submodule "vendas_usuario"]
+	path = vendas_usuario
+	url = git@github.com:dritoferro/vendas_usuario.git
